@@ -127,6 +127,30 @@
     {
       "command": "disable_internet",
       "output": "Интернет успешно выключен."
+    },
+    {
+      "command": "launch_a_nuclear_bomb",
+      "output": "Успешно! Цель: ТЫ!"
+    },
+    {
+      "command": "destroy_the_white_house",
+      "output": "Белого дома больше нет."
+    },
+    {
+      "command": "open_cameras",
+      "output": "Камеры успешно открыты!"
+    },
+    {
+      "command": "kill",
+      "output": "Киллер запущен за целью!"
+    },
+    {
+      "command": "transfer_money",
+      "output": "на ваш счёт зачислено 1,000,000$"
+    },
+    {
+      "command": "download_files",
+      "output": "файлы скачиваются..."
     }
   ]
 }
