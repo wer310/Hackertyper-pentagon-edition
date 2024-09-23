@@ -1,0 +1,256 @@
+{
+  "commands": [
+    {
+      "command": "scan_subnet",
+      "output": "Сканирование подсети завершено. Уязвимые устройства найдены."
+    },
+    {
+      "command": "deploy_backdoor",
+      "output": "Бэкдор успешно установлен. Доступ получен."
+    },
+    {
+      "command": "crack_encryption",
+      "output": "Шифрование успешно взломано. Данные доступны."
+    },
+    {
+      "command": "hijack_session",
+      "output": "Сессия успешно перехвачена. Пользователь: Guest."
+    },
+    {
+      "command": "extract_credentials",
+      "output": "Учетные данные успешно извлечены."
+    },
+    {
+      "command": "monitor_system",
+      "output": "Мониторинг системы активирован. Обнаружены аномалии."
+    },
+    {
+      "command": "spoof_mac",
+      "output": "MAC-адрес успешно замаскирован."
+    },
+    {
+      "command": "launch_phishing",
+      "output": "Фишинг-атака начата. Цель: почтовый сервер."
+    },
+    {
+      "command": "disable_updates",
+      "output": "Автообновления отключены."
+    },
+    {
+      "command": "trace_user",
+      "output": "Пользователь успешно отслежен. Локация: Нью-Йорк."
+    },
+    {
+      "command": "patch_exploit",
+      "output": "Эксплойт успешно запатчен."
+    },
+    {
+      "command": "generate_keylogger",
+      "output": "Кейлоггер успешно создан. Запись активна."
+    },
+    {
+      "command": "initiate_ddos",
+      "output": "DDoS-атака запущена. Цель: сайт ABC."
+    },
+    {
+      "command": "clear_cache",
+      "output": "Кеш успешно очищен."
+    },
+    {
+      "command": "deploy_ransomware",
+      "output": "Вымогатель успешно развернут."
+    },
+    {
+      "command": "analyze_traffic",
+      "output": "Трафик проанализирован. Обнаружены подозрительные пакеты."
+    },
+    {
+      "command": "reset_password",
+      "output": "Пароль успешно сброшен. Новый пароль: admin123."
+    },
+    {
+      "command": "exploit_service",
+      "output": "Служба успешно скомпрометирована."
+    },
+    {
+      "command": "create_fake_account",
+      "output": "Фальшивая учетная запись создана."
+    },
+    {
+      "command": "install_malware",
+      "output": "Шпионское ПО успешно установлено."
+    },
+    {
+      "command": "retrieve_logs",
+      "output": "Логи успешно извлечены."
+    },
+    {
+      "command": "scan_for_vulnerabilities",
+      "output": "Сканирование уязвимостей завершено. Риски обнаружены."
+    },
+    {
+      "command": "activate_keylogger",
+      "output": "Кейлоггер активирован. Начало записи."
+    },
+    {
+      "command": "sync_with_server",
+      "output": "Успешная синхронизация с сервером."
+    },
+    {
+      "command": "bypass_authentication",
+      "output": "Аутентификация успешно обойдена."
+    },
+    {
+      "command": "export_data",
+      "output": "Данные успешно экспортированы в файл."
+    },
+    {
+      "command": "configure_firewall",
+      "output": "Защитная стенка настроена. Уровень защиты: высокий."
+    },
+    {
+      "command": "inject_code",
+      "output": "Код успешно внедрен в систему."
+    },
+    {
+      "command": "disable_logging",
+      "output": "Логирование отключено."
+    },
+    {
+      "command": "shutdown_remote",
+      "output": "Удаленное отключение системы выполнено."
+    },
+    {
+      "command": "activate_safeguards",
+      "output": "Защитные меры активированы."
+    },
+    {
+      "command": "disable_internet",
+      "output": "Интернет успешно выключен."
+    },
+    {
+      "command": "launch_a_nuclear_bomb",
+      "output": "Успешно! Цель: ТЫ!"
+    },
+    {
+      "command": "destroy_the_white_house",
+      "output": "Белого дома больше нет."
+    },
+    {
+      "command": "open_cameras",
+      "output": "Камеры успешно открыты!"
+    },
+    {
+      "command": "kill",
+      "output": "Киллер запущен за целью!"
+    },
+    {
+      "command": "transfer_money",
+      "output": "на ваш счёт зачислено 1,000,000$"
+    },
+    {
+      "command": "download_files",
+      "output": "файлы скачиваются..."
+    },
+    {
+      "command": "deploy_backdoor",
+      "output": "Бэкдор успешно установлен. Доступ получен."
+    },
+    {
+      "command": "extract_credentials",
+      "output": "Учетные данные успешно извлечены."
+    },
+    {
+      "command": "monitor_system",
+      "output": "Мониторинг системы активирован. Обнаружены аномалии."
+    },
+    {
+      "command": "sync_with_server",
+      "output": "Успешная синхронизация с сервером."
+    },
+    {
+      "command": "configure_firewall",
+      "output": "Защитная стенка настроена. Уровень защиты: высокий."
+    },
+    {
+      "command": "deploy_trojan",
+      "output": "Троян успешно установлен. Доступ получен."
+    },
+    {
+      "command": "hijack_session",
+      "output": "Сессия успешно перехвачена. Пользователь: User."
+    },
+    {
+      "command": "initiate_ddos_attack",
+      "output": "DDoS-атака запущена. Цель: веб-сайт XYZ."
+    },
+    {
+      "command": "disable_firewall",
+      "output": "Защитная стенка успешно отключена."
+    },
+    {
+      "command": "trace_user_activity",
+      "output": "Деятельность пользователя успешно отслежена."
+    },
+    {
+      "command": "encrypt_files",
+      "output": "Файлы успешно зашифрованы."
+    },
+    {
+      "command": "decrypt_data",
+      "output": "Данные успешно расшифрованы."
+    },
+    {
+      "command": "export_credentials",
+      "output": "Учетные данные успешно экспортированы."
+    },
+    {
+      "command": "activate_safeguards",
+      "output": "Защитные меры активированы."
+    },
+    {
+      "command": "reset_system",
+      "output": "Система успешно сброшена."
+    },
+    {
+      "command": "analyze_vulnerabilities",
+      "output": "Анализ уязвимостей завершен. Риски обнаружены."
+    },
+    {
+      "command": "capture_screenshots",
+      "output": "Скриншоты успешно захвачены."
+    },
+    {
+      "command": "create_backup",
+      "output": "Резервная копия успешно создана."
+    },
+    {
+      "command": "initiate_root_access",
+      "output": "Доступ к корневым правам получен."
+    },
+    {
+      "command": "generate_report",
+      "output": "Отчет успешно сгенерирован."
+    },
+    {
+      "command": "update_malware",
+      "output": "Вредоносное ПО успешно обновлено."
+    },
+    {
+      "command": "disable_antivirus",
+      "output": "Антивирус успешно отключен."
+    },
+    {
+      "command": "steal_cookie",
+      "output": "Куки успешно украдены."
+    },
+    {
+      "command": "install_adware",
+      "output": "Рекламное ПО успешно установлено."
+    },
+    {
+      "command": "plant_rootkit",
+      "output": "Руткит успешно установлен!"
+    }
+  ]
+}
